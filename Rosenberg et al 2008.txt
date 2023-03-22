@@ -1,0 +1,9 @@
+Rosenberg et al 2008:
+Computer-aided tomography was used to visualise and quantify biogenic structures (eg, burrows) in 3 dimensions.
+Visualise and quanitfy biogenic structures & their volumes in sediment.
+The volumes of 'active' biogenic structures, defined as connected to the sediment-water interface, were generally close to the interface with some secondary peaks.
+Used core samples like we did.
+CT scanned and digital information of each core was analysed to obtain the volume of water in tubes and burrows connected to SWI.  
+Volume of alumina tracer and shells was computed when they occurred below SWI.
+Computation of SWI provided a 3D interface is sediment, saved as a grey-level image and reconstructed as a 3D mesh file.
+Better visualisation of objects in the structure.

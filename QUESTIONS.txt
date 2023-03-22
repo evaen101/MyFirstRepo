@@ -1,0 +1,7 @@
+QUESTIONS:
+
+**Python Basics 2**
+-london to edinburgh? and twice? 
+-what is the pd.dataframe? what is that table for?
+-why a= b= and c= for geospatial data science when it works without?
+-what is type(x) for in the classes subheading?
